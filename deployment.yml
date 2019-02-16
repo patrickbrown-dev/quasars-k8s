@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: quasars
-          image: kineticdial/quasars:c13d03e
+          image: kineticdial/quasars:1203d2a
           ports:
             - containerPort: 3000
           env:
